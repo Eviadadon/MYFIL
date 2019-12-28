@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buttons"
+        android:title="main activity"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/cred"
+        android:title="credits"
+        android:orderInCategory="200"/>
+</menu>
